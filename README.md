@@ -90,9 +90,9 @@ I love to work with people around me and help them as much as I can!
 <summary><b>🔧 Things I use in a work/school week</b></summary>
 <br>
 <ul>
-  	    <li><b>OS:</b> MacOS Ventura 13.0.1</li>
-	    <li><b>Laptop: </b> M1 Macbook Pro 13" 8gb</li>
-  	    <li><b>Browser: </b> Firefox</li>
+  	    <li><b>OS:</b> MacOS Monterey 12.6.1</li>
+	    <li><b>Laptop: </b> MacBook Pro (15-inch, 2016)</li>
+  	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode w/ Github Copilot</li>
 	    <li><b>To Stay Updated:</b> dev.page, Linkedin</li>
