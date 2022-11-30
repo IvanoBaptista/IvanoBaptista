@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Casper Kizewski!](https://github.com/Ssionn/)
+## Hey 👋, I'm [Ivano Baptista!](https://github.com/IvanoBaptista/)
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A600F7&center=true&vCenter=true&width=435&lines=Wanting+to+learn+more;Web+Development+%7C+Data-Engineering;Aspiring+Developer" alt="Typing SVG" /></p>
@@ -14,7 +14,7 @@
 
 ### Welcome to my github page! 
 
-I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm an enthusiastic learner and always tries to improve. In my eyes Teamwork and Results are important.
+I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm a driven and determined person to learn, i do have my flaws. but im great at communicating for group projects as an example.
 
 I love to work with people around me and help them as much as I can!
 
@@ -25,12 +25,12 @@ I love to work with people around me and help them as much as I can!
 - 💻 <b>Currently</b> in my second year as a student in the Bit-Academy
 - 📝 <b>I have </b> a strong interest in Web Developement
 - 🌱 <b>Love</b> learning about Computers
-- 🌟 <b>Main languages</b>: Python, JavaScript, PHP and many more
+- 🌟 <b>Main languages</b>: Python, C#, PHP and many more
 - ✍️ <b> Hobby's</b> are playing games and coding
 
 ###  <b>Favorite games</b>:
-- League of Legends (Good mental)
-- Counter Strike: Global-Offensive
+- Valorant
+- Call of duty cold war
 <br>
 <br>
 
