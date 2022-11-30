@@ -6,8 +6,7 @@
 <hr/>
 <div style="display:flex; flex-direction:row;">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/casper-kiżewski-318587217)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ssionn_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/IvanoBaptista)
 [![Dev.Page](https://img.shields.io/badge/Dev.Page-6a52ef?style=flat-square&logo=dev.page&logoColor=white)](https://dev.page/Ssionn)
 
 </div>
@@ -41,8 +40,8 @@ I love to work with people around me and help them as much as I can!
   	    <li><b>OS:</b> MacOS Monterey 12.6.1</li>
 	    <li><b>Laptop: </b> MacBook Pro (15-inch, 2016)</li>
   	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Terminal: </b>The stock MacOS Terminal</li>
 	    <li><b>Code Editor:</b> VSCode w/ Github Copilot</li>
-	    <li><b>To Stay Updated:</b> dev.page, Linkedin</li>
+	    <li><b>To Stay Updated:</b>Linkedin</li>
 	</ul>	
 </details>
