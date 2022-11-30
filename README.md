@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Ivano Baptista!](https://github.com/IvanoBaptista/)
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A600F7&center=true&vCenter=true&width=435&lines=Wanting+to+learn+more;Web+Development+%7C+Data-Engineering;Aspiring+Developer" alt="Typing SVG" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDAF5&center=true&width=435&lines=Game+developer;Back+end+Developer+%7C%7C+Data-Engineering;Ambitious+to+lean+more+skills" alt="Typing SVG" /></p>
 
 <hr/>
 <div style="display:flex; flex-direction:row;">
