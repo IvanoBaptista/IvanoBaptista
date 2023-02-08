@@ -25,9 +25,8 @@ I love to work with people around me and help them as much as I can!
 - 🌟 <b>Main languages</b>: Python, C#, PHP and many more
 - ✍️ <b> Hobby's</b> are playing games and coding
 
-###  <b>Favorite games</b>:
-- Valorant
-- Call of duty cold war
+###  <b>hobbies</b>:
+- Fl studio 21
 <br>
 <br>
 	
