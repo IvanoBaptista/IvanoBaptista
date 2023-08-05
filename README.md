@@ -11,10 +11,7 @@
 
 ### Welcome to my github page! 
 
-I'm currently studying Computer Science from [Horizon College](https://www.horizoncollege.nl/). I'm a driven and determined person to learn, i do have my flaws. but im great at communicating for group projects as an example.
-
-I love to work with people around me and help them as much as I can!
-
+Third-year software development student with a focus on web development, particularly interested in front-end technologies and JavaScript. I'm a fast self-learner and a great team player, committed to building the future, one line of code at a time
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m19qatqot4dxuin7384ljv6tt7ksqd6t85tey7ja&rid=giphy.gif&ct=g" width="375" height="250" align="right" />
 
 
