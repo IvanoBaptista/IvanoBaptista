@@ -10,8 +10,9 @@
 ## Welcome to my GitHub page! 🎉
 
 I'm a third-year software development student with a passion for web development, particularly front-end technologies and JavaScript. As a fast self-learner and a dedicated team player, I'm committed to building the future, one line of code at a time. 💻🚀
+<br><br><br>
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m19qatqot4dxuin7384ljv6tt7ksqd6t85tey7ja&rid=giphy.gif&ct=g" width="375" height="250" align="right" />
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m19qatqot4dxuin7384ljv6tt7ksqd6t85tey7ja&rid=giphy.gif&ct=g" />
 ### About Me:
 - 🎓 Studying Software Development at Bit-Academy
 - 🌐 Excited about exploring the web development landscape.
